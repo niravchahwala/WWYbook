@@ -1,2 +1,2 @@
-# WWYbook
+# worldweddingyearbook
 World Wedding Yearbook website
